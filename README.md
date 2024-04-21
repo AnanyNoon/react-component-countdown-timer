@@ -2,7 +2,7 @@
 
 This is a simple countdown timer react component.
 
-### [Demo](https://savalanpour.github.io/react-component-countdown-timer/)
+### [Demo](https://AnanyNoon.github.io/react-component-countdown-timer/)
 
 The demo app source code lives inside the `src/docs` folder. 
 
